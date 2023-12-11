@@ -1,0 +1,1 @@
+# hass-can-it-snow
